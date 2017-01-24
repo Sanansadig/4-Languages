@@ -1,0 +1,14 @@
+C umumi m?qs?dli proqramlama dilidir v? IOS v? windows ucun t?tbiql?rin yaz?lmas?ndan tutmus 3 D kinolar?n qurulmas?na qeder gebis t?tbiqi vard?r. Buna gor? d? 40 il ?rzind? oz populyarl?g?n itirm?misdir. C proqramlar? das?na bil?ndir v? m?nb? kodlar? hec bir d?yisiklik olmadan dig?r ?m?liyyat sistemind? isl?yir. 
+ Joel Spolsky  sozl?rin? gor? ?g?r siz C –ni bilmirsizs? proqramist kimi C-nin n? etdiyini bilmirsiz. 
+C dilinin ustunlukl?ri
+1. C dili bir cox tan?nm?s dill?r ucun bir t?m?l hesab olunur. Buna gor? d? C dilind? yaz?lm?s proqram sur?tli, s?m?r?li v? asan basa dusul?n dildir. 
+2. C yuks?k d?r?c?d? das?na bil?n dildir v? bir komputer ucun yaz?lm?s proqram dig?ri il? d? isl?y?c?k. 
+3. Onun dig?r vacib ustunluyu oz-ozunu genisl?ndir? bilm? bacar?g?d?r. Burada funksiyalardan ibar?t bir kitabxana var ki siz oz funksiyan?z? ora ?lav? ed? bil?rsiz. 
+4. C strukturlasan proqramlama dilidir v? proqram hiss?l?rl? v? bu hiss?l?r sonda tam proqram? ?m?l? g?tirir. 
+5. Sur?tli dildir. 1-2 saniy?y? 1000 c?rd? kod yaz?la bil?r
+6. C dilinin sintaksisini basa dusm?k cox asand?r.
+C dilinin z?if c?h?tl?ri
+1. C nin OOPs konsepsiyas? yoxdur buna gor? d? C++ inkisaf etdi.
+2. Burada ciddi yaz? yoxlama yoxdur. M?s?l?n biz tam d?y?rl?rd?n istifad? etm?liyik
+3. C-nin constructor, destructor v? namespace konsepsiyas? yoxdur.
+http://www.thecrazyprogrammer.com/2013/07/what-are-advantages-and-disadvantages.html
