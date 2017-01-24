@@ -1,0 +1,19 @@
+Umumiyy?tl? Assembly dili h?r hans? prosessor ucun ?n sad? proqramlasd?rma dilidir. Bu dilin yuks?k s?viyy?d? rahatl?g? m?s?n funksiyalar? v? ya d?yis?nl?ri yoxdur v? prosessorlar ail?l?ri aras?nda das?nan deyil. Buna baxmayaraq o ?n guclu kompyuter proqrama dilidir ey zamanda asag? s?viyy?li proqrama dili hesab olunur.
+Bir seyi yadda saxlamaq laz?md?r ki, kompyuter h?rfl?r v? ?d?dl?rl? idar? olunur.  Buna  gor? d? b?zi h?rf kombinasiyalar? mas?n kodlar?n?n saylar?n? ?v?z etm?k ucun istifad? olunur. Butun bu h?rf kombinasiyalar? Assembly dilini formalasd?r?r v? assembler is? bu dili mas?n dilin? cevir?n t?rcum? proqram?d?r.  M?s?l?n sad? proqrama ?d?dl?rin? baxaq. ?g?r siz 184, 0, 184, 142, 216, 198, 6, 158, 15, 36, 205, 32  enter vurub Ms Dos da run ets?z onda dollar s?klini gor? bil?rsiz. Assemblerin ?sas funksiyas? oldur ki, proqramc?n?n sozl?rini bir nov komputerin basa dus?c?yi ?d?dl?r? cevirir. Bu metod proqramistl?rin isini cox asanlasd?rd? v? art?q h?r hans? bir sozun ?d?dl?rl? ifad?sini yadda saxlamaq v? ya kitab formas?nda saxlamaga ehtiyac qalmad?. 
+Assembly dilind? yaz?lm?s sad? bir proqrama baxaq.
+MOV AX, 47104
+MOV DS, AX
+MOV [3998], 36
+INT 32
+Burada Assembler h?r kod s?trini oxuyur v? onu prosessor basa dus? bilc?yi dil? cevirir. MOV AX, 47104 deyir ki kompyuter 47104 ?d?dini AX adl? yer? kopyalay?r.  MOV DS, AX  deyir ki kompyuter ?d?di Ax d?n DS -? kopyalayacaq. MOV [3998], 36 is? ?d?dini yaddasda 3998 ki saxlay?r. N?hay?t , INIT 32 proqramdan c?xaraq ?m?liyyat sistemin? qay?d?r. Burada AX v? DS register yaddaslard?r. 
+
+
+reference : http://www.swansontec.com/sprogram.html
+Dilin ustunlukl?ri:
+1.Basa dusm?k asand?r v? proqramc? cox vaxta q?na?t edir.
+2. S?fl?ri tapmaq  v? d?yism?k daha asand?r.
+Z?if c?h?tl?ri:
+1. ?n z?if c?h?ti is? mas?n dilind?n as?l? olmas?d?r ki, hans? ki bir kompyter ucun yaz?lm?s proqram dig?r kompter v? texniki qurgularda isl?m?m?yidir. 
+2. Qurgudan as?l? oldugu ucun proqramistin eyni zamanda qurgunu da yaxs? basa dusm?yi vacibdir. 
+https://owlcation.com/stem/Types-of-Computer-Languages-with-Advantages-and-Disadvantages
+
