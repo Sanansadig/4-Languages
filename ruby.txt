@@ -1,0 +1,16 @@
+Ruby full stack developer ucun ?v?zedilm?z proqramd?r. Bu dil Yaponiyada yarad?lm?sd?r kodlar q?sa v? dolgundur . Bu c?h?t onu oyr?nm?y? baslayanlar?n isini asanlasd?r?r. 
+Rahatl?q
+Bu dil dinamik s?kild? yaz?lm?s dildir v? dan?s?q dilin? cox yax?nd?r. Buna gor? muxt?lif metodlardan istifad? ed?r?k problemleri rahatl?qla h?ll ed? bil?rsiz. 
+Genis Auditoriya 
+Stackoverflow-da 27 min izl?yici il? 9cu ?n m?hsur dildir. Meetup.com –da 840 Ruby qrupu vard?r v? umumiyy?tl? 430 min Ruby istifad?cisi vard?r. Bundan basqa Githubda 970 Ruby proyekti vard?r .
+http://www.bestprogramminglanguagefor.me/why-learn-ruby
+Ruby proqrami Perl d?n daha gucludur Phytondan daha obeject-oriented dir.
+Bu developerl?r ucun ?n ustun c?h?tl?rind?n biri odur ki bir proyekt ucun yaz?lm?s kodlar dig?r proyekt ucun istifad? edil? bilir. 
+http://www.businesslabs.org/learning-rooms/advantages-disadvantages-ruby-on-rails/
+M?nfi c?h?tl?ri
+1. Bu dili daha yaxs? oyr?nm?k ucun PHP v? C# dili il? mqayis?d? daha az kitablar, forumlar tapa bil?rsiz .
+2. Bu dil basqa dill?rd?n daha gec isl?yir m?s?n Java bu dild?n 20 d?f? sur?tli dildir. 
+3. Basqa dill?rl? muqayis?d? inkisaf? z?if gedir. 
+https://www.techwalla.com/articles/the-disadvantages-of-ruby-programming
+
+
