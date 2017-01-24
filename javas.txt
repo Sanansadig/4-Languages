@@ -1,0 +1,13 @@
+javascript object-oriented ve script dildir . O,  web seifeler duzeltmek ucun istifade olunan interaktiv dildir.  Cox vaxt bu dil anketler ve sorgular duzeltmek ucun istifade olunur. Bu dil 1995 ci ilde LiveScript adi ile ortaya cixmisdir ve javada yaradilmisdir. Html seifelerinde seifeye interaktivlik vermek ucun javascript kodlarindan istifade edilir. 
+http://javascript.about.com/od/reference/p/javascript.htm
+Javascript in ustunlukleri 
+1. Daha az serverle elaqe olur
+2. Istifadeci ucun derhal cavab gonderilir
+3. Artan interaktivlik 
+4. Daha zengin interfeys
+Menfi cehetleri
+1. Javascriptin Client-side fayllari oxumaga ve yazmaga imkan vermir
+2. Javascript sebeke tetbiqleri ucun istifade edile bilmez
+3. Javascriptin coxemeliyyatliliq xususiyyeti yoxdur
+
+Javascriptin en boyuk ustunluklerinden biri de odur ki bahali “tool” teleb etmir notpad++ ile yazila bilir. 
